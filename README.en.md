@@ -46,3 +46,7 @@ changed-field list, split with manifest, exit codes, `--json` shape.
 
 It does not read real 1C files with multi-row headers or merged cells — the format is a flat CSV.
 Case write-up: <https://basovdanil.github.io/portfolio/case-tables/case-tables.html>
+
+---
+
+More projects: [github.com/basovdanil](https://github.com/basovdanil) · write-ups: [portfolio](https://basovdanil.github.io/portfolio/)
