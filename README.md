@@ -4,6 +4,11 @@
 
 **[English](README.en.md)** · [Русский](README.md)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basovdanil/basovdanil/main/assets/tools.png"
+       alt="Восемь инструментов с тестами и кодами возврата" width="100%">
+</p>
+
 Три операции, которые регулярно нужны перед загрузкой табличных выгрузок в базу:
 слить несколько файлов, сравнить две версии и разложить таблицу по значению колонки.
 

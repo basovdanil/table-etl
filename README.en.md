@@ -1,5 +1,10 @@
 # table-etl
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basovdanil/basovdanil/main/assets/tools.png"
+       alt="Eight tools with tests and exit codes" width="100%">
+</p>
+
 [![tests](https://github.com/basovdanil/table-etl/actions/workflows/tests.yml/badge.svg)](https://github.com/basovdanil/table-etl/actions/workflows/tests.yml)
 
 Three operations that come up before loading a spreadsheet export into a database: merge several
