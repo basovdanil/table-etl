@@ -6,6 +6,14 @@
 Только стандартная библиотека Python 3.8+. Формат входа — CSV, который отдаёт
 Excel и 1С: разделитель `;` или `,`, UTF-8 или windows-1251 с BOM.
 
+## Пайплайн
+
+```text
+v1.csv + v2.csv ──▶ merge ──▶ одна таблица, дубли по ключу схлопнуты последней строкой
+v1.csv + v2.csv ──▶ diff  ──▶ v2.csv (только добавленные) + report.json (added/removed/changed)
+v2.csv          ──▶ split ──▶ parts/part-01.csv … + parts/manifest.json
+```
+
 ## Команды
 
 | Команда | Что делает |
