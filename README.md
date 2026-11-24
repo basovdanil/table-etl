@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/basovdanil/table-etl/actions/workflows/tests.yml/badge.svg)](https://github.com/basovdanil/table-etl/actions/workflows/tests.yml)
 
+**[English](README.en.md)** · [Русский](README.md)
+
 Три операции, которые регулярно нужны перед загрузкой табличных выгрузок в базу:
 слить несколько файлов, сравнить две версии и разложить таблицу по значению колонки.
 
