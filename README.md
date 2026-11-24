@@ -8,6 +8,8 @@
 Только стандартная библиотека Python 3.8+. Формат входа — CSV, который отдаёт
 Excel и 1С: разделитель `;` или `,`, UTF-8 или windows-1251 с BOM.
 
+Разбор кейса на сайте: https://basovdanil.github.io/portfolio/case-tables/case-tables.html
+
 ## Пайплайн
 
 ```text
